@@ -8,7 +8,7 @@ Sou um Front-end web Developer :computer:
 
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, Javascript & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, Netflix e animes
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-TarcísioDelmondes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-delmondes-892567207)](https://www.linkedin.com/in/tarcisio-delmondes-892567207) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-TarcísioDelmondes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-delmondes-892567207)](https://www.linkedin.com/in/tarcisio-delmondes) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tarcisiodelmondes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarcisiodelmondes@gmail.com)](mailto:tarcisiodelmondes@gmail.com)
 

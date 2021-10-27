@@ -3,7 +3,7 @@
 ## Me chamo, Tarcísio Delmondes
 
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou Full Stack web Developer, e especializado em front-end web :computer:
+Sou Full Stack web </br> Developer, e especializado em front-end web :computer:
 
 <br/> :computer: &nbsp; Minha stack: React, NextJS, TypeScript, JavaScript e Node.js,
 <br/> :computer: &nbsp; Tecnologias que conheço: React Native, Python e Docker

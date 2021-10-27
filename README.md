@@ -5,7 +5,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou Full Stack web Developer, e especializado em front-end web :computer:
 
-<br/> :computer: &nbsp; Minha stack: React, NextJS, Typescript, Javascript e Node.js,
+<br/> :computer: &nbsp; Minha stack: React, NextJS, TypeScript, JavaScript e Node.js,
 <br/> :computer: &nbsp; Tecnologias que conheço: React Native, Python e Docker
 <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games, animes e séries
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-TarcísioDelmondes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-delmondes-892567207)](https://www.linkedin.com/in/tarcisio-delmondes)

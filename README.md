@@ -14,7 +14,7 @@ e **accessibilidade** possível!
 
 <img src="https://github-readme-stats.vercel.app/api?username=tarcisiodelmondes&count_private=true&show_icons=true&theme=dracula" alt="Anurag's github stats" width="460px"/>
 
-<img src="https://github-readme-stats-p9wt1si2p-tarcisiodelmondes.vercel.app/api/top-langs/?username=tarcisiodelmondes&hide=SCSS&count_private=true&langs_count=6&layout=compact&theme=dracula" alt="Top Langs" width="460px" height="220px"/>
+<img src="https://github-readme-stats-p9wt1si2p-tarcisiodelmondes.vercel.app/api/top-langs/?username=tarcisiodelmondes&hide=SCSS,JavaScript,EJS,Handlebars&count_private=true&langs_count=6&layout=compact&theme=dracula" alt="Top Langs" width="460px" height="220px"/>
 
 
 <br/>

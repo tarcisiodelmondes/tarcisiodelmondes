@@ -1,12 +1,12 @@
-# Olá pessoal ![Gif dizendo Olá](./.github/hello.gif)
+# Seja bem vindo! ![Gif dizendo Olá](./.github/hello.gif)
 
-## Me chamo, Tarcísio Delmondes
-
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou Full Stack web </br> Developer, e especializado em front-end web :computer:
+Olá, me chamo **Tarcísio** sou especialista no desenvolvimento
+**front-end** e entusiasta no **back-end**, crio sites utilizando as
+melhores tecnologias do mercado para entregar a melhor **experiência**
+e **accessibilidade** possível!
 
 <br/> :computer: &nbsp; Minha stack: React, NextJS, TypeScript, JavaScript e Node.js,
-<br/> :computer: &nbsp; Tecnologias que conheço: React Native, Python e Docker
+<br/> :computer: &nbsp; Tecnologias que conheço: React Native, Python, Elixir e Docker
 <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games, animes e séries
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-TarcísioDelmondes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-delmondes-892567207)](https://www.linkedin.com/in/tarcisio-delmondes)
 |
@@ -14,7 +14,7 @@ Sou Full Stack web </br> Developer, e especializado em front-end web :computer:
 
 <img src="https://github-readme-stats.vercel.app/api?username=tarcisiodelmondes&count_private=true&show_icons=true&theme=dracula" alt="Anurag's github stats" width="460px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiodelmondes&count_private=true&layout=compact&theme=dracula" alt="Top Langs" width="460px" height="220px"/>
+<img src="https://github-readme-stats-p9wt1si2p-tarcisiodelmondes.vercel.app/api/top-langs/?username=tarcisiodelmondes&hide=SCSS&count_private=true&langs_count=6&layout=compact&theme=dracula" alt="Top Langs" width="460px" height="220px"/>
 
 
 <br/>
@@ -26,7 +26,5 @@ Sou Full Stack web </br> Developer, e especializado em front-end web :computer:
 
  <img src="https://camo.githubusercontent.com/1c935f97f2c23496e933634923b8a00e82a3421cd78b753972d739fea8675ea6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666c61742d737175617265266c6f676f3d6772617068716c" alt="GraphQL" />
 
-<img src="https://camo.githubusercontent.com/7e1b25c572fa17803e2a8d48b3e4e3506ac0432ae826fa25d66b02f1cc8546f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2532302d2532333030303030302e7376673f6c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" alt="Vercel" /> </p> </br>
-
-<img align="left" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Obrigado,%20por%20ter%20visitado%20meu%20perfil%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=800&height=400" alt="Obrigado, por ter visitado meu perfil" height="250px" /> 
-
+<img src="https://camo.githubusercontent.com/7e1b25c572fa17803e2a8d48b3e4e3506ac0432ae826fa25d66b02f1cc8546f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2532302d2532333030303030302e7376673f6c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" alt="Vercel" />
+</p>

@@ -8,7 +8,7 @@ e **accessibilidade** possível!
 <br/> :computer: &nbsp; Minha stack: React, NextJS, TypeScript, JavaScript e Node.js,
 <br/> :computer: &nbsp; Tecnologias que conheço: React Native, Python, Elixir e Docker
 <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games, animes e séries
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-TarcísioDelmondes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-delmondes-892567207)](https://www.linkedin.com/in/tarcisio-delmondes)
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-TarcísioDelmondes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisiodelmondes)](https://www.linkedin.com/in/tarcisiodelmondes)
 |
 [![Gmail Badge](https://img.shields.io/badge/-tarcisiodelmondes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarcisiodelmondes@gmail.com)](mailto:tarcisiodelmondes@gmail.com)
 

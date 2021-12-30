@@ -1,8 +1,8 @@
 # Seja bem vindo! ![Gif dizendo Olá](./.github/hello.gif)
 
 Olá, me chamo **Tarcísio** sou especialista no desenvolvimento
-**front-end** e entusiasta no **back-end**, crio sites utilizando as
-melhores tecnologias do mercado para entregar a melhor **experiência**
+**front-end** e entusiasta no <br/> **back-end**, crio sites utilizando as
+melhores tecnologias do mercado para entregar <br/> a melhor **experiência**
 e **accessibilidade** possível!
 
 <br/> :computer: &nbsp; Minha stack: React, NextJS, TypeScript, JavaScript e Node.js,

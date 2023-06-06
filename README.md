@@ -1,12 +1,12 @@
 # Seja bem vindo! ![Gif dizendo Olá](./.github/hello.gif)
 
 Olá, me chamo **Tarcísio** sou especialista no desenvolvimento
-**front-end** e entusiasta no <br/> **back-end**, crio sites utilizando as
+**full-stack**, crio sites utilizando as
 melhores tecnologias do mercado para entregar <br/> a melhor **experiência**
 e **accessibilidade** possível!
 
 <br/> :computer: &nbsp; Minha stack: React, NextJS, TypeScript, JavaScript e Node.js,
-<br/> :computer: &nbsp; Tecnologias que conheço: React Native, Python, Elixir e Docker
+<br/> :computer: &nbsp; Tecnologias que conheço: Java, React Native, Python, Elixir e Docker
 <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games, animes e séries
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-TarcísioDelmondes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisiodelmondes)](https://www.linkedin.com/in/tarcisiodelmondes)
 |
